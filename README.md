@@ -1,7 +1,7 @@
 ### Hi , I'm Shakshi Kumari👋
 
-- 🔭 I’m currently a pursuing Electronics and ommunication Engineering
-- 🌱 I’m currently learning Data Science.
+- 🔭 I’m currently pursuing B.Tech with Electronics and ommunication Engineering
+- 🌱 I’m a Data Science enthusiast.
 - 👯 Having a good knowledge of C,C++,Python.
 - 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 - 💬 Ask me about C, C++, Python
